@@ -1,2 +1,0 @@
-# mips-assembly
-# mips-assembly
